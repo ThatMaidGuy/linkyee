@@ -90,7 +90,7 @@ games:
   - link:
       icon: "fa-solid fa-globe"
       text: "Старый архив со старыми играми"
-      url: "https://thatmaidguy.github.io/old-archive"
+      url: "https://thatmaidguy.ru/old-archive"
       alt: "Старый архив"
       title: "Старый архив"
       target: "_blank"
@@ -134,14 +134,14 @@ socials:
       target: "_blank"
   - social:
       icon: "fa-brands fa-github"
-      url: "https://github.com/WheatleyHDD"
+      url: "https://github.com/ThatMaidGuy"
       title: "GitHub"
       alt: "GitHub"
       target: "_blank"
   - social:
       icon: "fa-solid fa-envelope"
-      url: "mailto:thatmaidguy@ya.ru"
-      title: "Email: thatmaidguy@ya.ru"
+      url: "mailto:me@thatmaidguy.ru"
+      title: "Email: me@thatmaidguy.ru"
       alt: "me@thatmaidguy.ru"
       target: "_blank"
 
