@@ -189,37 +189,6 @@
                 {% endfor %}
             </div>
 
-            {% if webring_name %}
-            <h1 class="title-link">Webring</h1>
-
-            <div class="links-row">
-                <a
-                    href="https://webring.otomir23.me/{{ webring_name }}/prev/"
-                    class="link-button"
-                    alt="< Предыдущий"
-                    title="< Предыдущий"
-                >
-                    <i class="fa-solid fa-angles-left"></i> Предыдущий
-                </a>
-                <a
-                    href="https://webring.otomir23.me/"
-                    class="link-button"
-                    alt="Webring"
-                    title="Webring"
-                >
-                    Webring
-                </a>
-                <a
-                    href="https://webring.otomir23.me/{{ webring_name }}/next/"
-                    class="link-button"
-                    alt="Следующий >"
-                    title="Следующий >"
-                >
-                    Следующий <i class="fa-solid fa-angles-right"></i>
-                </a>
-            </div>
-            {% endif %}
-
             <footer class="footer">
                 {{ footer }}
 
